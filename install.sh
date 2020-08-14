@@ -9,7 +9,7 @@ echo "rustup installed"
 # Install cmake
 echo "Installing cmake"
 sudo apt install cmake
-echp "cmake installed"
+echo "cmake installed"
 # Clone Quiche
 echo "Cloning quiche to /opt"
 sudo git clone --recursive https://github.com/cloudflare/quiche /opt/quiche
