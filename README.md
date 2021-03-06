@@ -1,5 +1,5 @@
 # Getting Started with Quiche
-This script will help you install Cloudflare's Quiche to access HTTP/3
+This script will help you install Cloudflare's Quiche to access HTTP/3   
 Disclaimer: This script is trash, only work for ubuntu/debian or anything with apt and snap.   
 
 ## Just run it
